@@ -1,0 +1,41 @@
+xid,name,dist,rate,wikidata,kinds,point,osm
+Q4871051,Battle of Fort Loyal,0.0,3,Q4871051,"battlefields,historic,historical_places,interesting_places","{'lon': -70.25530242919922, 'lat': 43.6614990234375}",
+W408615853,Cathedral of the Immaculate Conception,78.83047841,7,Q5052449,"religion,cathedrals,churches,interesting_places,catholic_churches","{'lon': -70.25433349609375, 'lat': 43.66161346435547}",way/408615853
+W374875826,Mayo Street Arts,162.27798996,3,Q14715244,"religion,churches,cultural,theatres_and_entertainments,interesting_places,other_theatres,other_churches","{'lon': -70.25437927246094, 'lat': 43.66279983520508}",way/374875826
+W425613795,St. Pauls Anglican Church,177.5985492,7,Q7591067,"religion,churches,interesting_places,other_churches","{'lon': -70.25320434570312, 'lat': 43.661991119384766}",way/425613795
+W30753223,Lincoln Park,186.77575123,3,Q6550921,"urban_environment,gardens_and_parks,cultural,interesting_places","{'lon': -70.25453186035156, 'lat': 43.659915924072266}",way/30753223
+W345288881,Etz Chaim Synagogue,218.10268348,3,Q5405165,"religion,synagogues,interesting_places","{'lon': -70.25298309326172, 'lat': 43.66250991821289}",way/345288881
+Q7056596,North School,282.33186843,7,Q7056596,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25194549560547, 'lat': 43.66222381591797}",
+Q7231900,Portland City Hall,292.86989216,7,Q7231900,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.2573013305664, 'lat': 43.6593017578125}",
+W378227153,Grace,311.35764415,7,Q5094004,"religion,architecture,historic_architecture,churches,interesting_places,foods,bars,tourist_facilities,other_buildings_and_structures,other_churches","{'lon': -70.2577133178711, 'lat': 43.6593132019043}",way/378227153
+Q8033078,Woodman Building,333.74103825,7,Q8033078,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25416564941406, 'lat': 43.65861129760742}",
+Q7279801,Rackleff Building,340.5652178,7,Q7279801,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25389099121094, 'lat': 43.65861129760742}",
+Q7795695,Thompson Block,341.93501919,7,Q7795695,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25305938720703, 'lat': 43.65888977050781}",
+Q6783752,Masonic Temple,379.48581486,7,Q6783752,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25833129882812, 'lat': 43.65888977050781}",
+Q7231948,Portland High School,388.5847652,7,Q7231948,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.2588882446289, 'lat': 43.6591682434082}",
+W348747932,First Parish Portland Unitarian Universalist Church,401.01409952,7,Q5453480,"religion,churches,interesting_places,other_churches","{'lon': -70.25827026367188, 'lat': 43.658607482910156}",way/348747932
+W29986913,Eastern Cemetery,421.02217803,7,Q5330050,"cemeteries,historic,burial_places,interesting_places","{'lon': -70.25027465820312, 'lat': 43.662513732910156}",way/29986913
+Q5004369,Byron Greenough Block,544.23292916,7,Q5004369,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25777435302734, 'lat': 43.656944274902344}",
+W714453851,Abyssinian Meeting House,554.61088256,7,Q4670753,"architecture,historic_architecture,interesting_places,other_buildings_and_structures","{'lon': -70.2485122680664, 'lat': 43.66229248046875}",way/714453851
+W321660142,Monument Square,553.35007608,7,Q6906848,"urban_environment,gardens_and_parks,cultural,interesting_places,squares","{'lon': -70.25888061523438, 'lat': 43.65725326538086}",way/321660142
+Q7889711,United States Customhouse,570.47712538,7,Q7889711,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25138854980469, 'lat': 43.657222747802734}",
+Q6764349,Mariner's Church,596.01216977,7,Q6764349,"religion,churches,interesting_places,other_churches","{'lon': -70.25305938720703, 'lat': 43.65638732910156}",
+W317839584,Green Memorial African Methodist Episcopal Zion Church,604.37670221,7,Q5602864,"religion,churches,interesting_places,other_churches","{'lon': -70.2487564086914, 'lat': 43.664146423339844}",way/317839584
+Q5345531,Edward T. Gignoux United States Courthouse,605.63581142,7,Q5345531,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.26166534423828, 'lat': 43.65861129760742}",
+Q6483117,Lancaster Block,619.24723797,7,Q6483117,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25971984863281, 'lat': 43.656944274902344}",
+Q28124811,Schlotterbeck and Foss Building,640.14502093,7,Q28124811,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.26305389404297, 'lat': 43.6602783203125}",
+W349171949,Wadsworth-Longfellow House,639.77861502,7,Q7959331,"cultural,museums,interesting_places,other_museums","{'lon': -70.26018524169922, 'lat': 43.65696334838867}",way/349171949
+W349171948,Maine Historical Society,658.12239893,3,Q6736375,"cultural,museums,interesting_places,other_museums","{'lon': -70.26033782958984, 'lat': 43.65684127807617}",way/349171948
+Q6940732,Museum of African Culture,700.34947671,3,Q6940732,"museums,cultural,interesting_places,art_galleries","{'lon': -70.26000213623047, 'lat': 43.65620040893555}",
+W334261315,Portland Observatory,712.93011297,7,Q2105180,"lighthouses,towers,architecture,cultural,museums,interesting_places,observation_towers,other_museums","{'lon': -70.24825286865234, 'lat': 43.66537094116211}",way/334261315
+Q25240890,Wendameen,719.03449718,7,Q25240890,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.24861145019531, 'lat': 43.657222747802734}",
+Q7831670,Tracy-Causer Block,738.64052934,7,Q7831670,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.2572250366211, 'lat': 43.654998779296875}",
+W346578280,Mechanics Hall,749.92200983,7,Q14715258,"architecture,historic_architecture,interesting_places,other_buildings_and_structures","{'lon': -70.26116180419922, 'lat': 43.6562614440918}",way/346578280
+N3719450611,John Ford Statue,780.92313964,3,Q51114,"historic,monuments_and_memorials,interesting_places,monuments","{'lon': -70.25729370117188, 'lat': 43.65462112426758}",node/3719450611
+Q7231567,"Porteous, Mitchell and Braun Company Building",784.95832973,7,Q7231567,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.2611083984375, 'lat': 43.65583419799805}",
+Q22570280,Bagheera,874.39833413,7,Q22570280,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.2477798461914, 'lat': 43.65583419799805}",
+Q4803126,Asa Hanson Block,874.71344827,7,Q4803126,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.26194763183594, 'lat': 43.655277252197266}",
+Q5217531,Daniel How House,880.30619133,7,Q5217531,"historic_architecture,architecture,interesting_places,other_buildings_and_structures","{'lon': -70.25833129882812, 'lat': 43.65388870239258}",
+W268221693,Maine Narrow Gauge Railroad Museum,910.05674515,3,Q1885606,"other_buildings,industrial_facilities,cultural,museums,interesting_places,museums_of_science_and_technology,railway_museums","{'lon': -70.24417114257812, 'lat': 43.66285705566406}",way/268221693
+N3528996966,St. Lawrence Arts Center,980.28826851,7,Q2320216,"religion,churches,cultural,theatres_and_entertainments,interesting_places,other_theatres,other_churches","{'lon': -70.24600219726562, 'lat': 43.66718292236328}",node/3528996966
+N367795543,The Childrens Museum of Maine,996.15518955,3,Q5098174,"children_museums,cultural,museums,interesting_places","{'lon': -70.26225280761719, 'lat': 43.654090881347656}",node/367795543
